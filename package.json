@@ -6,6 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesacIT/hoc_node_js.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "nodejs"
+  ],
+  "author": "nls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesacIT/hoc_node_js/issues"
+  },
+  "homepage": "https://github.com/lesacIT/hoc_node_js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
